@@ -1,8 +1,7 @@
  ## LED-Blinking-PART 1
 
 ## Abstract
-
-             In this project a LED Bargraph is interfaced to Arduino Uno to generate patterns as shown in the following video,
+In this project a LED Bargraph is interfaced to Arduino Uno to generate patterns as shown in the following video,
  https://www.facebook.com/watch/?v=437404777682929
 
 ## Hardware Components:
